@@ -1,0 +1,10 @@
+Package: com.creaturecoding.volumesizeexample
+Name: VolumeSizeExample
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: CreatureSurvive
+Author: CreatureSurvive
+Section: Tweaks
+Version: 0.0.1-5+debug
+Installed-Size: 124
